@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TestScanner {
 	public final String IP_ADDR = "127.0.0.1";
-	public static final String IP_ADDR = "127.0.0.1";
+	public static final String IP_ADDR2 = "127.0.0.1";
 	public static void main(String[] args) {
 		//Scanner °´Ã¼(sc) »ý¼º
 		Scanner sc = new Scanner(System.in);
